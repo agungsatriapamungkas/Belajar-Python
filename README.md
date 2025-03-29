@@ -16,8 +16,12 @@ Di dalam repo ini, aku mendokumentasikan proses belajarku **hari demi hari** —
 ## 📚 Progress Hari Ini
 
 ✅ **Day 1**  
-📄 [DAY1_Belajar_Python.md](DAY1_Python.md)  
+📄 [DAY1_Python.md](DAY1_Python.md)  
 > Belajar dasar: instalasi tools, `print()`, dan tipe data Python.
+
+✅ **Day 2**  
+📄 [DAY2_Operasi_Matematika.md](DAY2_Python.md)  
+> Belajar operator matematika: `+`, `-`, `*`, `/`, `//`, `%`, `**`.
 
 ---
 
@@ -31,10 +35,10 @@ Di dalam repo ini, aku mendokumentasikan proses belajarku **hari demi hari** —
 
 ## 🛣 Rencana Kedepan
 
-| Hari | Topik                            | Status  |
-|------|----------------------------------|---------|
-| Day 1 | Instalasi & Tipe Data Dasar     | ✅ Done |
-| Day 2 | Variabel & Operator             | ⏳ Coming Soon |
+| Hari | Topik                            | Status     |
+|------|----------------------------------|------------|
+| Day 1 | Instalasi & Tipe Data Dasar     | ✅ Done     |
+| Day 2 | Operasi Matematika              | ✅ Done     |
 | Day 3 | Kondisional `if else`           | ⏳ Coming Soon |
 | Day 4 | Perulangan `for`, `while`       | ⏳ Coming Soon |
 | Day 5 | Fungsi & Modularisasi           | ⏳ Coming Soon |
