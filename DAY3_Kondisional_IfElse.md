@@ -7,31 +7,30 @@ Hari ini aku belajar tentang **percabangan logika** dalam Python, yaitu bagaiman
 ## 🧠 Konsep Dasar
 
 ### Struktur Dasar `if`
-```python
 if kondisi:
     # kode yang dijalankan jika kondisi True
-Dengan else
-python
-Copy
-Edit
+
+---
+
+### Dengan else
 if kondisi:
     # kode jika True
 else:
     # kode jika False
-Dengan elif
-python
-Copy
-Edit
+
+---
+
+### Dengan elif
 if kondisi1:
     # kode jika kondisi1 True
 elif kondisi2:
     # kode jika kondisi2 True
 else:
     # kode jika semua kondisi False
-🔎 Contoh 1: Mengecek Bilangan Positif / Negatif
-python
-Copy
-Edit
+
+---
+
+## 🔎 Contoh 1: Mengecek Bilangan Positif / Negatif
 angka = int(input("Masukkan angka: "))
 
 if angka > 0:
@@ -40,10 +39,10 @@ elif angka < 0:
     print("Angka negatif")
 else:
     print("Angka nol")
-🔎 Contoh 2: Menentukan Kategori Umur
-python
-Copy
-Edit
+
+---
+
+## 🔎 Contoh 2: Menentukan Kategori Umur
 umur = int(input("Masukkan umur kamu: "))
 
 if umur < 13:
@@ -54,10 +53,10 @@ elif umur < 60:
     print("Dewasa")
 else:
     print("Lansia")
-🔎 Contoh 3: Nilai Ujian
-python
-Copy
-Edit
+
+---
+
+## 🔎 Contoh 3: Nilai Ujian
 nilai = int(input("Masukkan nilai kamu: "))
 
 if nilai >= 90:
@@ -70,14 +69,19 @@ elif nilai >= 60:
     print("D")
 else:
     print("E")
-📝 Catatan Tambahan
+
+---
+
+## 📝 Catatan Tambahan
 Gunakan indentasi (spasi/tab) yang konsisten di dalam blok if
 
 Gunakan : setelah kondisi
 
 Kondisi bisa menggunakan operator logika: and, or, not
 
-✅ Ringkasan
+---
+
+## ✅ Ringkasan
 Hari ini aku belajar:
 
 Struktur if, elif, else
@@ -86,4 +90,6 @@ Menulis logika bercabang
 
 Menangani berbagai kondisi dengan input dari pengguna
 
-“Python membuat logika menjadi mudah dan menyenangkan.”
+---
+
+> _“Python membuat logika menjadi mudah dan menyenangkan.”_
