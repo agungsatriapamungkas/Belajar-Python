@@ -10,7 +10,7 @@ Hari ini aku belajar tentang **percabangan logika** dalam Python, yaitu bagaiman
 ```python
 if kondisi:
     # kode yang dijalankan jika kondisi True
-
+```
 ---
 
 ### Dengan else
@@ -19,7 +19,7 @@ if kondisi:
     # kode jika True
 else:
     # kode jika False
-
+```
 ---
 
 ### Dengan elif
@@ -30,7 +30,7 @@ elif kondisi2:
     # kode jika kondisi2 True
 else:
     # kode jika semua kondisi False
-
+```
 ---
 
 ## 🔎 Contoh 1: Mengecek Bilangan Positif / Negatif
@@ -43,7 +43,7 @@ elif angka < 0:
     print("Angka negatif")
 else:
     print("Angka nol")
-
+```
 ---
 
 ## 🔎 Contoh 2: Menentukan Kategori Umur
@@ -58,7 +58,7 @@ elif umur < 60:
     print("Dewasa")
 else:
     print("Lansia")
-
+```
 ---
 
 ## 🔎 Contoh 3: Nilai Ujian
@@ -75,7 +75,7 @@ elif nilai >= 60:
     print("D")
 else:
     print("E")
-
+```
 ---
 
 ## 📝 Catatan Tambahan
