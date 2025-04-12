@@ -7,12 +7,14 @@ Hari ini aku belajar tentang **percabangan logika** dalam Python, yaitu bagaiman
 ## 🧠 Konsep Dasar
 
 ### Struktur Dasar `if`
+```python
 if kondisi:
     # kode yang dijalankan jika kondisi True
 
 ---
 
 ### Dengan else
+```python
 if kondisi:
     # kode jika True
 else:
@@ -21,6 +23,7 @@ else:
 ---
 
 ### Dengan elif
+```python
 if kondisi1:
     # kode jika kondisi1 True
 elif kondisi2:
@@ -31,6 +34,7 @@ else:
 ---
 
 ## 🔎 Contoh 1: Mengecek Bilangan Positif / Negatif
+```python
 angka = int(input("Masukkan angka: "))
 
 if angka > 0:
@@ -43,6 +47,7 @@ else:
 ---
 
 ## 🔎 Contoh 2: Menentukan Kategori Umur
+```python
 umur = int(input("Masukkan umur kamu: "))
 
 if umur < 13:
@@ -57,6 +62,7 @@ else:
 ---
 
 ## 🔎 Contoh 3: Nilai Ujian
+```python
 nilai = int(input("Masukkan nilai kamu: "))
 
 if nilai >= 90:
