@@ -1,3 +1,4 @@
+
 # 📘 Day 3: Kondisional `if`, `elif`, `else`
 
 Hari ini aku belajar tentang **percabangan logika** dalam Python, yaitu bagaimana sebuah program bisa membuat keputusan berdasarkan kondisi tertentu.
@@ -79,22 +80,17 @@ else:
 ---
 
 ## 📝 Catatan Tambahan
-Gunakan indentasi (spasi/tab) yang konsisten di dalam blok if
-
-Gunakan : setelah kondisi
-
-Kondisi bisa menggunakan operator logika: and, or, not
+- Gunakan indentasi (spasi/tab) yang konsisten di dalam blok `if`.
+- Gunakan tanda titik dua `:` setelah kondisi untuk memulai blok kode.
+- Kondisi juga bisa menggunakan operator logika seperti: `and`, `or`, `not` untuk memeriksa lebih dari satu kondisi dalam percabangan.
 
 ---
 
 ## ✅ Ringkasan
 Hari ini aku belajar:
-
-Struktur if, elif, else
-
-Menulis logika bercabang
-
-Menangani berbagai kondisi dengan input dari pengguna
+- Struktur percabangan `if`, `elif`, dan `else`.
+- Menulis logika bercabang untuk menangani berbagai kondisi.
+- Menangani input dari pengguna dengan `input()` dan membuat keputusan berdasarkan nilai yang dimasukkan.
 
 ---
 
