@@ -751,7 +751,7 @@ Hari ini aku belajar:
 
 ## 🔗 Navigasi
 
-- [⬅️ Day 4: Perulangan for-while](DAY4_Perulangan_ForWhile.md)
+- [⬅️ Day 4: Perulangan for-while](DAY4_Perulangan.md)
 - [➡️ Day 6: Struktur Data - List, Tuple, Set](DAY6_Struktur_Data.md)
 - [🏠 Kembali ke README](README.md)
 
